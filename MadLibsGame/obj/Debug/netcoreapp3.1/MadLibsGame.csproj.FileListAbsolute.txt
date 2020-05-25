@@ -1,0 +1,12 @@
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.exe
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.deps.json
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.runtimeconfig.json
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.runtimeconfig.dev.json
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.dll
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.pdb
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.AssemblyInfoInputs.cache
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.AssemblyInfo.cs
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.csproj.CoreCompileInputs.cache
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.dll
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.pdb
+C:\Users\sarac\source\repos\MadLibsGame\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.genruntimeconfig.cache
